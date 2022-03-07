@@ -34,7 +34,9 @@
 
 ## IJCLR 2022  
   
-The 2nd International Joint Conference on Learning & Reasoning (IJCLR) will be held in [Cumberland Lodge](https://www.cumberlandlodge.ac.uk/), Windsor Great Park, United Kingdom, 28-30 September 2022.
+The 2nd International Joint Conference on Learning & Reasoning (IJCLR) will be held in [Cumberland Lodge](https://www.cumberlandlodge.ac.uk/), Windsor Great Park, United Kingdom, 28-30 September 2022. 
+
+The 1st International Joint Conference on Learning & Reasoning ([IJCLR 2021](http://lr2020.iit.demokritos.gr)) took place from 25-27 October 2021 (virtual). [[Video recordings]](https://www.youtube.com/playlist?list=PL18_rB75vx1PkjXnkX1jiqNeNnVCbNGIh). 
 
 The rapid progress in machine learning has been the primary reason for a fresh look in the transormative potential of AI as a whole during the past decade. A crucial milestone for taking full advantage of this potential is the endowment of algorithms that learn from experience with the ability to consult existing knowledge and reason with what has already been learned. Integrating learning and reasoning constitutes one of the key open questions in AI, and holds the potential of addressing many of the shortcomings of contemporary AI approaches, including the black-box nature and the brittleness of deep learning, and the difficulty to adapt knowledge representation models in the light of new data. Integrating learning and reasoning calls for approaches that combine knowledge representation and machine reasoning techniques with learning algorithms from the fields of neural, statistical and relational learning.
 
