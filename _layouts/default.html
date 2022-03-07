@@ -24,19 +24,12 @@
         <img src="./images/ijclr.png"  width="240" alt="IJCLR">  <img src="./images/cumberland-lodge.png"  width="250" alt="Cumberland"> 
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <!--<h1>2nd International Joint Conference on Learning & Reasoning</h1>-->
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-        
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>        
         <ul>
           <li class="myrow"><a class="link" href="https://ijclr.github.io/2022/">Home</a></li>
           <li class="myrow"><a class="link" href="https://ijclr.github.io/2022/program-outline.html">Program</a></li>
         </ul>
-        
-      </header>
-    
-    
-   
-    
-    
+      </header>    
     <!--
       <div id="banner">
         <span id="logo"></span>
@@ -77,7 +70,13 @@
       }
       .link {
         color: #fff;
+        font-size: 18px;
       }
+      .link:hover {
+        color: "yellow";
+        font-size: 18px;
+      }
+      
     </style>
     
   </body>
