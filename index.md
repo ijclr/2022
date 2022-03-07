@@ -1,4 +1,6 @@
+<img src="./cumberland_header.jpg"  width="460" alt="cumberland">
 
+<br>
 <table align="center">
 <tr>
   <td>
@@ -30,7 +32,8 @@
   </tr>
 
 </table>
-  
+<br>
+
 ## IJCLR 2022  
   
 The 2nd International Joint Conference on Learning & Reasoning (IJCLR) will be held in Cumberland Lodge, Windsor Great Park, United Kingdom, 28-30 September 2022.
