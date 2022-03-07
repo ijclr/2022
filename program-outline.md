@@ -1,8 +1,6 @@
-<html>
-<body>
+## Program Outline (All Times BST)
 
-<h1 style="text-align: center;">Program Outline (All Times BST)</h1>
-<hr>
+<br>
 
 <table class="outline">
 <tr>
@@ -190,6 +188,3 @@
       cursor: pointer;
     }
 </style>
-  
-</body>
-</html>
