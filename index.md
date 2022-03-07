@@ -65,6 +65,10 @@ IJCLR solicits submissions of high-quality papers on combining learning and reas
 Please follow the Call for Papers link for more information and guidelines on paper submissions to the IJCLR tracks.
 
 
+## Program
+- [Program Outline](program-outline.md)
+
+
 ## Conference venue
 
 [Cumberland Lodge](https://www.cumberlandlodge.ac.uk/), Windsor Great Park, United Kingdom
