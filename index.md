@@ -1,5 +1,3 @@
-<img src="./cumberland_header.jpg"  width="460" alt="cumberland">
-
 <br>
 <table align="center">
 <tr>
