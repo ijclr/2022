@@ -2,6 +2,7 @@
 
 <br>
 
+<center>
 <table class="outline">
 <tr>
 <td></td>
@@ -9,8 +10,6 @@
 <th>Thu 29 Sep</th>
 <th>Fri 30 Sep</th>
 </tr>
-
-<center>
     
 <tr>
 <td>9:00 - 10:00</td>
@@ -65,7 +64,8 @@
 </tr>
         
 </table>
-
+</center>
+    
 <!--
 <br>
 <div style="text-align: center">
