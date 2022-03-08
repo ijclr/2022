@@ -18,40 +18,45 @@
 </tr>
 
 <tr>
-<td>10:00 - 11:00</td>
+<td>10:00 - 10:30</td>
 <td colspan="3" style="background-color: #DCE7EE">Break</td>
 </tr>
 
 <tr>
-<td>11:00 - 12:00</td>
+<td>10:30 - 12:00</td>
 <td colspan="3"  style="background-color: #9effd6">Parallel Sessions</td>
 </tr>
 
 <tr>
-<td>12:00 - 14:00</td>
+<td>12:00 - 13:30</td>
 <td colspan="3" style="background-color: #DCE7EE">Lunch</td>
 </tr>
 
 <tr>
-<td>14:00 - 15:00</td>
+<td>13:30 - 14:30</td>
 <td style="background-color: #ffb2b2">Keynote talk (TBD) <br> (chair: TBD)</td>
 <td style="background-color: #ffb2b2">Keynote talk (TBD)</td>
 <td style="background-color: #ffb2b2">Keynote talk (TBD)</td>
 </tr>
     
 <tr>
-<td>15:00 - 16:30</td>
+<td>14:30 - 15:30</td>
 <td colspan="2" style="background-color: #DDE191">Joint Poster Sessions</td>
 <td style="background-color: #DDE191">Joint Journal Session</td>
 </tr>
+
+<tr>
+<td>15:30 - 16:00</td>
+<td colspan="3" style="background-color: #DCE7EE">Break</td>
+</tr>
     
 <tr>
-<td>16:30 - 17:30</td>
+<td>16:00 - 17:00</td>
 <td colspan="3" style="background-color: #9effd6">Parallel Sessions</td>
 </tr>
 
 <tr>
-<td>17:30 - 18:30</td>
+<td>17:00 - 18:00</td>
 <td style="background-color: #ffb2b2">Keynote talk (TBD)</td>
 <td style="background-color: #ffb2b2">Keynote talk (TBD)</td>
 <td style="background-color: #ffb2b2">IJCLR Panel Discussion and <br> Closing</td>
