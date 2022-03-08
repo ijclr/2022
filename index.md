@@ -60,6 +60,7 @@ IJCLR aims at bringing together researchers and practitioners working on various
   table#noborder td
   {
     border: none !important;
+    text-align: center !important;
   }
 </style>
       
