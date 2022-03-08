@@ -10,6 +10,8 @@
 <th>Fri 30 Sep</th>
 </tr>
 
+<center>
+    
 <tr>
 <td>9:00 - 10:00</td>
 <td style="background-color: #ffb2b2">Opening and <br> Keynote talk (TBD)</td>
@@ -61,7 +63,7 @@
 <td style="background-color: #ffb2b2">Keynote talk (TBD)</td>
 <td style="background-color: #ffb2b2">IJCLR Panel Discussion and <br> Closing</td>
 </tr>
-
+        
 </table>
 
 <!--
@@ -193,3 +195,4 @@
       cursor: pointer;
     }
 </style>
+<\center>    
