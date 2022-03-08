@@ -1,4 +1,4 @@
-## Orgnization
+## Organization
 
 ### IJCLR Steering Committee
 
