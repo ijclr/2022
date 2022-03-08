@@ -1,6 +1,6 @@
 ## Important Dates
 
-<table style="text-align: left; width: 100%;" cellspacing="2" cellpadding="2" border="0">
+<table id="noborder" style="text-align: left; width: 100%;" cellspacing="2" cellpadding="2" border="0">
         <tbody>
           <tr>
             <td style="vertical-align: top;">Journal track cut-off dates<br>
