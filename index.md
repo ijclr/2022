@@ -1,5 +1,5 @@
 <br>
-<table align="center" style="border-style:none">
+<table align="center" border="0" style="border:none">
 <tr>
   <td>
   <a href="https://ijclr22.doc.ic.ac.uk/ilp2022.html"><img src="images/ilp.png" width="160" alt="ILP"></a>
