@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table#nobordercenter,
+table#nobordercenter td
+{
+  border: none !important;
+  text-align: center !important;
+}
+
+table#noborder,
+table#noborder td
+{
+  border: none !important;  
+}
