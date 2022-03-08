@@ -6,13 +6,13 @@ IJCLR’s journal track, the special issue on Learning and Reasoning supported b
 
 ### Conference Track
 
-Each conference/workshop participating in IJCLR will be soliciting paper submissions on the topics of its interest. Accepted papers will be presented at IJCLR. Additionally, IJCLR features a “General Track” where authors are invited to submit work that is relevant to the conference but it does not necessarily fall within the scope of a particular workshop (ILP, NeSy, AAIP, HLC). Submission deadline: TBA
+Each conference/workshop participating in IJCLR will be soliciting paper submissions on the topics of its interest. Accepted papers will be presented at IJCLR. Additionally, IJCLR features a “General Track” where authors are invited to submit work that is relevant to the conference but it does not necessarily fall within the scope of a particular workshop (ILP, NeSy, AAIP, HLC). Submission deadline: 31 May 2022.
 
 ### Recently published papers Track 
 
-IJCLR solicits submissions of high-quality papers on combining learning and reasoning that have been recently published, or accepted for publication, by a first-class conference such as ECML/PKDD, ICML, KDD, ICDM, AAAI, IJCAI, etc., or journal such as MLJ, DMKD, JMLR etc. Papers will be accepted on the grounds of relevance and quality of the original publication venue. Accepted papers will be presented at IJCLR. Submission deadline: TBA
+IJCLR solicits submissions of high-quality papers on combining learning and reasoning that have been recently published, or accepted for publication, by a first-class conference such as ECML/PKDD, ICML, KDD, ICDM, AAAI, IJCAI, etc., or journal such as MLJ, DMKD, JMLR etc. Papers will be accepted on the grounds of relevance and quality of the original publication venue. Accepted papers will be presented at IJCLR. Submission deadline: 31 May 2022.
 
-Please follow the Call for Papers link for more information and guidelines on paper submissions to the IJCLR tracks.
+Please follow the Call for Papers of each workshop for more information and guidelines on paper submissions.
 
 
 
