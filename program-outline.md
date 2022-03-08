@@ -195,4 +195,3 @@
       cursor: pointer;
     }
 </style>
-<\center>    
