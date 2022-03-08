@@ -12,7 +12,7 @@
 ### IJCLR 2022 Organizing Committee
 
 [Stephen Muggleton](http://wp.doc.ic.ac.uk/shm/), Imperial College London, UK (General Chair) <br>
-[Alireza Tamaddoni-Nezhad](https://www.imperial.ac.uk/people/a.tamaddoni-nezhad), University of Surrey, UK <br>
+[Alireza Tamaddoni-Nezhad](https://www.surrey.ac.uk/people/alireza-tamaddoni-nezhad), University of Surrey, UK <br>
 [Artur d’Avila Garcez](http://www.staff.city.ac.uk/~aag/), City University of London, UK <br>
 [Ernesto Jiménez-Ruiz](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz), City University of London, UK <br>
 [Ute Schmid](https://www.uni-bamberg.de/en/cogsys/schmid-ute/), University of Bamberg, Germany <br>
