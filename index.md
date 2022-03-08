@@ -1,5 +1,5 @@
 <br>
-<table align="center" border="0" style="border:none">
+<table id="noborder" align="center">
 <tr>
   <td>
   <a href="https://ijclr22.doc.ic.ac.uk/ilp2022.html"><img src="images/ilp.png" width="160" alt="ILP"></a>
@@ -54,4 +54,12 @@ IJCLR aims at bringing together researchers and practitioners working on various
     [15/01/2022] New cut-off dates for the journal track: 1st Feb, 1st May and 1st Aug 2022.
     [01/10/2021] The conference website was launched.
 
+
+<style>
+  table#noborder,
+  table#noborder td
+  {
+    border: none !important;
+  }
+</style>
       
