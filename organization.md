@@ -22,4 +22,4 @@ Denis Mareschal, Birkbeck, University of London, UK <br>
 
 ### Enquiries:
 
-Please contact Bridget Gundry at [bridget.gundry@imperial.ac.uk](bridget.gundry@imperial.ac.uk)
+Please contact Bridget Gundry at [bridget.gundry@imperial.ac.uk](mailto:bridget.gundry@imperial.ac.uk)
